@@ -37,3 +37,5 @@ class Tendril
       stroke((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255));
       Cluster h = new Cluster((int)(myNumSegments/3), (int)startX, (int)startY);
     }
+  }
+}
